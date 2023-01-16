@@ -1,5 +1,6 @@
 # Exercicios
 
-- Criei esse repositorio com o objetivo de adicionar os exercicios da [PythonBrasil](https://wiki.python.org.br/ListaDeExercicios) resolvidos.
+Criei esse repositorio com o objetivo de adicionar os exercicios da [PythonBrasil](https://wiki.python.org.br/ListaDeExercicios) resolvidos.
 
-- Pra mim será como uma forma de exercitar a sintaxe e o desenvolvimento na linguagem Java.
+A ideia desse repositorio é adicionar não somente os exercicios resolvidos em JAVA, mas também eles resolvidos em python. 
+Acredito que será um conteudo bastante amplo para que eu possa exercitar a minha logica e tambem a sintaxes dessas linguagens.
