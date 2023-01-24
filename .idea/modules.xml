@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios-pythonBrasil.iml" filepath="$PROJECT_DIR$/.idea/Exercicios-pythonBrasil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/arrays/arrays.iml" filepath="$PROJECT_DIR$/Java/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/lacos-repeticao/lacos-repeticao.iml" filepath="$PROJECT_DIR$/Java/lacos-repeticao/lacos-repeticao.iml" />
+    </modules>
+  </component>
+</project>
